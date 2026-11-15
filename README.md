@@ -1,3 +1,29 @@
+# TuriX-CUA
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+This is the official website for TuriX Computer-use-Agent
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+TuriX Computer-use-Agent 官方网站与项目。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <p align="center">
    <img src="./doc/LogoHFitted.svg" width="1600" alt="TuriX logo">
 </p>
